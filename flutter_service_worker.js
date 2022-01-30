@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2f0cd90959048b80fb045744ca773eb3",
+  "assets/AssetManifest.json": "e7033eb67e5b25837072347ea45791ae",
 "assets/assets/icon.png": "96e3268a2b288d81e5f963f1dd3daf1f",
 "assets/FontManifest.json": "5504c4e38aba3935ae8c644d8dd735ab",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "635a9d0ab6925fec58ebc28cf0d726af",
+"assets/NOTICES": "07a1d293a385c4f80c24f1a85a7d0607",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "assets/packages/flutter_vector_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
 "assets/packages/flutter_vector_icons/fonts/Entypo.ttf": "744ce60078c17d86006dd0edabcd59a7",
 "assets/packages/flutter_vector_icons/fonts/EvilIcons.ttf": "140c53a7643ea949007aa9a282153849",
@@ -34,11 +36,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ed79b9589c3b758d4a9bf5b74c72e6c9",
-"/": "ed79b9589c3b758d4a9bf5b74c72e6c9",
-"main.dart.js": "4cbfff80abf7ef85e6a6bee03a6f3d6f",
+"index.html": "3cf992737934995aee070ed6f4029ad3",
+"/": "3cf992737934995aee070ed6f4029ad3",
+"main.dart.js": "aa180001e443042029af03c49ac8a48d",
 "manifest.json": "389905b0c24291225e1ef8708a68462c",
-"version.json": "669d6b87266bb009b31a7506fdc8c22d"
+"version.json": "bdaf4e68488700b1c2f5c5587ee95ed8"
 };
 
 // The application shell files that are downloaded before a service worker can
