@@ -1,4 +1,4 @@
-/* .center {
+ .center {
     margin: 0;
     position: absolute;
     top: 50%;
@@ -6,8 +6,6 @@
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
-
- */
 .loader {
   border: 16px solid #f3f3f3;
   border-radius: 50%;
