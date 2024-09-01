@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "e095f82293be8740d783d9874311817f",
-"index.html": "34a650897baee7bd2a893ed09289a124",
-"/": "34a650897baee7bd2a893ed09289a124",
+const RESOURCES = {"version.json": "2c592ab152b90e05e71dddffcbefea77",
+"index.html": "00a6aaf0f91911858184c10dfc2547ff",
+"/": "00a6aaf0f91911858184c10dfc2547ff",
 "main.dart.js": "da633d7dfacd2f134c382901a2111118",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "favicon.png": "ef55a672472e606baaa6adbe5d9a876e",
@@ -229,4 +229,3 @@ function onlineFirst(event) {
     })
   );
 }
-
